@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(196, 120, 92);
+}
+
+.menu {
+    display: flex;
+    flex-direction: row;
+}
+
+section {
+    border: solid black 4px;
+    margin: 10px
+}
